@@ -40,6 +40,16 @@ Employee attrition increases recruitment costs, reduces productivity, and result
 
 ---
 
+## ✨ Project Features
+
+- Cleaned and preprocessed HR employee data.
+- Performed exploratory data analysis (EDA).
+- Created multiple visualizations to analyze employee attrition across age, income, overtime, job role, tenure, education, and satisfaction.
+- Built a KPI summary table for key HR metrics.
+- Derived actionable business insights and recommendations to improve employee retention.
+  
+---
+
 ## 📈 Project Workflow
 
 1. Data Collection
