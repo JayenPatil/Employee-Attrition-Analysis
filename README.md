@@ -1,6 +1,6 @@
-# **EMPLOYEE ATTRITION ANALYSIS**
+# Employee Attrition Analysis
 
-##📌 Project Overview
+## 📌 Project Overview
 
 This project analyzes employee attrition using Python to identify the key factors influencing employee turnover. The analysis helps HR teams understand workforce trends and provides data-driven recommendations to improve employee retention.
 
@@ -77,22 +77,22 @@ Employee attrition increases recruitment costs, reduces productivity, and result
 
 ### KPI Summary
 
-![KPI Dashboard] <img width="336" height="332" alt="image" src="https://github.com/user-attachments/assets/f8438efb-e629-44de-b8f1-7653f36eb504" />
+[KPI Dashboard] <img width="336" height="332" alt="image" src="https://github.com/user-attachments/assets/f8438efb-e629-44de-b8f1-7653f36eb504" />
 
 
 ### Overtime vs Attrition
 
-![Overtime Analysis] <img width="995" height="623" alt="image" src="https://github.com/user-attachments/assets/cb096f86-8e4e-45cd-8d89-f297f49e8891" />
+[Overtime Analysis] <img width="995" height="623" alt="image" src="https://github.com/user-attachments/assets/cb096f86-8e4e-45cd-8d89-f297f49e8891" />
 
 
 ### Monthly Income vs Attrition
 
-![Monthly Income Analysis] <img width="1000" height="621" alt="image" src="https://github.com/user-attachments/assets/05c90e5c-32e1-40c2-be07-3f912353dd2b" />
+[Monthly Income Analysis] <img width="1000" height="621" alt="image" src="https://github.com/user-attachments/assets/05c90e5c-32e1-40c2-be07-3f912353dd2b" />
 
 
 ### Correlation Heatmap
 
-![Correlation Heatmap] <img width="1026" height="663" alt="image" src="https://github.com/user-attachments/assets/6d1b9d4b-0959-48c7-a7d5-54544fcc9561" />
+[Correlation Heatmap] <img width="1026" height="663" alt="image" src="https://github.com/user-attachments/assets/6d1b9d4b-0959-48c7-a7d5-54544fcc9561" />
 
 
 ---
